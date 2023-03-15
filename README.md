@@ -1,8 +1,8 @@
 <h1 align="center">Hello 👋, I'm Floride Tuyisenge</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=floride125-art&label=Profile%20views&color=0e75b6&style=flat" alt="floride125-art" /> </p>
-<p>I am full stack developer with 3+ years of experience in javascript, c, dart, python, react js, and many more programming language and frameworks but currently I am focused on react js, flutter, and django for both website and mobile application development. I am a quick learner who believes that teamworks is better way to go higher and achieve more.
+<p>Highly motivated and driven software engineer with a strong foundation in computer science and programming. Proficient in Java,  Python , and JavaScript with a passion for developing innovative solutions to complex problems. Seeking for job opportunities in software development and engineering to utilise my skills and contribute to the success of a dynamic team.
 
 - 💬 Ask me about **flutter, JavaScript, Django, python and more related to apps and websites development**
 
