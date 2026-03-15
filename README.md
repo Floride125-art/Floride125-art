@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=floride125-art&label=Profile%20views&color=0e75b6&style=flat" alt="floride125-art" />
 </p>
 
-Graduating with an MS in Electrical and Computer Engineering from **Carnegie Mellon University**, where my work spans deep learning, computer vision, NLP, and large language models, with a particular focus on building AI systems that are fair and unbiased. I have published research on fairness-aware biometric systems, am currently developing a multi-turn RAG pipeline for the SemEval competition, and serve as a Teaching Assistant for the Introduction to Deep Learning course at CMU.
+Graduate student in Electrical and Computer Engineering at **Carnegie Mellon University**, where my work includes AI/ML, deep learning, computer vision, NLP, and large language models, with a particular focus on building AI systems that are fair and unbiased. I have published research on fairness-aware biometric systems, am currently developing a multi-turn RAG pipeline for the SemEval competition, and serve as a Teaching Assistant for the Introduction to Deep Learning course at CMU.
 
 Beyond research, I have a solid software engineering background, from building full-stack web and mobile applications to designing end-to-end machine learning pipelines that turn raw data into actionable insights.
 
